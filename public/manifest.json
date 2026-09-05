@@ -1,0 +1,27 @@
+{
+  "name": "A Little Something — Happy Birthday",
+  "short_name": "Birthday Site",
+  "description": "A handmade birthday experience: a song, a memory lane, letters, and a few surprises.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1B1023",
+  "theme_color": "#1B1023",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/apple-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-dark-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/harleen-avatar.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
