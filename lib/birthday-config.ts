@@ -21,7 +21,7 @@ export const CONFIG = {
   // Anchored to midnight in Fremont, CA timezone (Sept 6 is PDT, UTC-7).
   // When you're ready to arm the countdown, set previewMode to false.
   unlockISO: "2026-09-06T00:00:00-07:00",
-  previewMode: True,
+  previewMode: true,
 
   // Direct WhatsApp Chat Button Configuration
   whatsapp: {
